@@ -90,7 +90,7 @@ public class UserService : UserRepository
             return;
         }
         _currentUser.Status = status;
-        Update(_currentUser.UserName, _currentUser.Password , _currentUser.Status);
+        Update(_currentUser);
         ColoredConsole.WriteLine($"Status Change To {status}".DarkGreen());
 
     }
@@ -132,7 +132,7 @@ public class UserService : UserRepository
             return;
         }
         _currentUser.Password = New;
-        Update(_currentUser.UserName, _currentUser.Password, _currentUser.Status);
+        Update(_currentUser);
         ColoredConsole.WriteLine("Password Change Successful".DarkGreen());
     }
     public void Logout()

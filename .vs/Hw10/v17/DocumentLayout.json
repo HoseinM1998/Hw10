@@ -1,25 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hmosl\\source\\repos\\Hw10\\",
+  "WorkspaceRootPath": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|c:\\users\\hmosl\\source\\repos\\hw10\\hw10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|solutionrelative:hw10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|c:\\users\\hmosl\\source\\repos\\hoseinm1998\\hw10\\hw10\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|solutionrelative:hw10\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|c:\\users\\hmosl\\source\\repos\\hw10\\hw10\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|solutionrelative:hw10\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|c:\\users\\hmosl\\source\\repos\\hw10\\hw10\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|solutionrelative:hw10\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|c:\\users\\hmosl\\source\\repos\\hw10\\hw10\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|c:\\users\\hmosl\\source\\repos\\hoseinm1998\\hw10\\hw10\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|solutionrelative:hw10\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|c:\\users\\hmosl\\source\\repos\\hw10\\hw10\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|c:\\users\\hmosl\\source\\repos\\hoseinm1998\\hw10\\hw10\\userqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|solutionrelative:hw10\\userqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|c:\\users\\hmosl\\source\\repos\\hoseinm1998\\hw10\\hw10\\adosqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|solutionrelative:hw10\\adosqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|c:\\users\\hmosl\\source\\repos\\hoseinm1998\\hw10\\hw10\\dapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|solutionrelative:hw10\\dapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|c:\\users\\hmosl\\source\\repos\\hoseinm1998\\hw10\\hw10\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|solutionrelative:hw10\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|c:\\users\\hmosl\\source\\repos\\hoseinm1998\\hw10\\hw10\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|solutionrelative:hw10\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|c:\\users\\hmosl\\source\\repos\\hoseinm1998\\hw10\\hw10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|solutionrelative:hw10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|c:\\users\\hmosl\\source\\repos\\hoseinm1998\\hw10\\hw10\\progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|solutionrelative:hw10\\progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|c:\\users\\hmosl\\source\\repos\\hoseinm1998\\hw10\\hw10\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{401A446E-5DE9-4BB7-8222-968EFA09D49D}|Hw10\\Hw10.csproj|solutionrelative:hw10\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,66 +70,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw10\\Hw10\\User.cs",
-              "RelativeDocumentMoniker": "Hw10\\User.cs",
-              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw10\\Hw10\\User.cs",
-              "RelativeToolTip": "Hw10\\User.cs",
+              "DocumentIndex": 0,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\Configuration.cs",
+              "RelativeDocumentMoniker": "Hw10\\Configuration.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\Configuration.cs",
+              "RelativeToolTip": "Hw10\\Configuration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T20:54:06.787Z"
+              "WhenOpened": "2024-11-01T12:24:54.044Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw10\\Hw10\\IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Hw10\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw10\\Hw10\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\IUserRepository.cs",
               "RelativeToolTip": "Hw10\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T20:54:39.1Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "UserQueries.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\UserQueries.cs",
+              "RelativeDocumentMoniker": "Hw10\\UserQueries.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\UserQueries.cs",
+              "RelativeToolTip": "Hw10\\UserQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:23:49.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdoSqlRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\AdoSqlRepository.cs",
+              "RelativeDocumentMoniker": "Hw10\\AdoSqlRepository.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\AdoSqlRepository.cs",
+              "RelativeToolTip": "Hw10\\AdoSqlRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:16:15.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DapperRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\DapperRepository.cs",
+              "RelativeDocumentMoniker": "Hw10\\DapperRepository.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\DapperRepository.cs",
+              "RelativeToolTip": "Hw10\\DapperRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:15:26.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw10\\Hw10\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\UserRepository.cs",
               "RelativeDocumentMoniker": "Hw10\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw10\\Hw10\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\UserRepository.cs",
               "RelativeToolTip": "Hw10\\UserRepository.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAvwCsAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T20:55:37.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T20:55:37.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw10\\Hw10\\UserService.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\UserService.cs",
               "RelativeDocumentMoniker": "Hw10\\UserService.cs",
-              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw10\\Hw10\\UserService.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\UserService.cs",
               "RelativeToolTip": "Hw10\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T20:55:50.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T20:55:50.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Hw10\\Hw10\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\Program.cs",
               "RelativeDocumentMoniker": "Hw10\\Program.cs",
-              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Hw10\\Hw10\\Program.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\Program.cs",
               "RelativeToolTip": "Hw10\\Program.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAHAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T20:53:27.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T20:53:27.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProgressBar.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\ProgressBar.cs",
+              "RelativeDocumentMoniker": "Hw10\\ProgressBar.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\ProgressBar.cs",
+              "RelativeToolTip": "Hw10\\ProgressBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:33:12.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\User.cs",
+              "RelativeDocumentMoniker": "Hw10\\User.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\HoseinM1998\\Hw10\\Hw10\\User.cs",
+              "RelativeToolTip": "Hw10\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:54:06.787Z"
             }
           ]
         }
